@@ -152,7 +152,7 @@ A experiência me ajudou a consolidar o entendimento sobre infraestrutura como c
 - Documentação AWS Lambda: (https://docs.aws.amazon.com/lambda/)
 - AWS CloudFormation Guide: (https://docs.aws.amazon.com/cloudformation/)
 - GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
-- DIO Bootcamp Santander Code Girls 2025: (https://web.dio.me/track/6cd0de9d-d33d-4a18-9557-aa17a0ee6fcc)
+- Bootcamp Santander Code Girls 2025: (https://web.dio.me/track/6cd0de9d-d33d-4a18-9557-aa17a0ee6fcc](https://app.santanderopenacademy.com/pt-BR/program/santander-code-girls-2025))
   
 
 ---

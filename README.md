@@ -42,6 +42,7 @@ A estrutura criada é composta pelos seguintes componentes:
 
 📌 *Esse bucket armazenará os arquivos que serão processados pela Lambda.*
 
+--
 
 ### 🧠 2. Criar Função Lambda
 1. Acesse o console → **Lambda** → **Criar função**.  

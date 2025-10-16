@@ -42,7 +42,6 @@ A estrutura criada é composta pelos seguintes componentes:
 
 📌 *Esse bucket armazenará os arquivos que serão processados pela Lambda.*
 
----
 
 ### 🧠 2. Criar Função Lambda
 1. Acesse o console → **Lambda** → **Criar função**.  
@@ -63,7 +62,7 @@ def lambda_handler(event, context):
     print("Evento recebido:", event)
     return {"statusCode": 200, "body": "Processamento concluído com sucesso!"}
 ```
----
+
 ### 🔗 3. Criar Access Points
 
 1. No console S3, abra o menu lateral e clique em Access Points.
@@ -75,7 +74,7 @@ def lambda_handler(event, context):
   - Nome: objectlambda-jullia
   - Baseado no access point anterior.
   - Associe a função Lambda criada.
----
+
 
 ### ☁️ 4. Criar Stack no CloudFormation
 
@@ -92,7 +91,7 @@ def lambda_handler(event, context):
 4. Clique em Próximo → Criar stack.
 5. Aguarde até o status ser **CREATE_COMPLETE** ou no meu caso **ROLLBACK_COMPLETE**.
 
----
+
 ### 🧪 5. Testar a Função Lambda
 
 1. Vá até o console Lambda → selecione a função → **Testar**.
